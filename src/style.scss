@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-lazy-dm-plugin {
+	background-color: #ceccd0;
+	color: black;
+	padding: 2px;
+	padding: 0 20px 20px 20px;
+	border-radius: 10px;
+	border: 2px solid gray;
+}
+
+ .editor-styles-wrapper h2.block-editor-block-list__block {
+	font-family: var(--wp--preset--font-family--system-font);
+}

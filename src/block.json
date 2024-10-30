@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "juanlucha/lazy-dm-roleplaying-session-planner",
+	"version": "1.0.1",
+	"title": "Lazy DM Roleplaying Session Planner",
+	"category": "widgets",
+	"icon": "lazy-dm.png",
+	"description": "Plugin to prepare roleplaying sessions following the Lazy DM method by Mike Shea",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "lazy-dm-roleplaying-session-planner",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
